@@ -24,11 +24,6 @@ Maven: Dependency management and build tool
 
 spring.jpa.hibernate.ddl-auto=update: Automatically creates/updates the user table based on the User entity.
 
-Method
-Endpoint
-Description
-Request Body / Parameters
-
 POST
 /api/users
 Create a new user
